@@ -14,7 +14,7 @@ npm run serve
 ```
 npm run build
 ```
-### Tip
+### Cannot find node_module directory after cloning the repositroy? here is the trick.....
 when you clone the repository from GitHub you will not find node_modules directory so you should run 
 ```
 npm install 

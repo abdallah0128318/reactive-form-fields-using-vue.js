@@ -20,7 +20,7 @@ when you clone the repository from GitHub you will not find node_modules directo
 npm install 
 
 ```
-So the npm package manager will look at package.json file and install all listed packages in it
+So the npm package manager will look at package.json file and install all listed packages under all the dependencies property 
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
